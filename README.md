@@ -15,12 +15,15 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary
+
+
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
+- Denver had the highest turnout with 82.8% of the votes coming from that county.
 - The candidate results were:
   - Charles Stockham received 23.0% of the vote and 85,213 number of votes
   - Diana Degette received 73.8% of the vote and 272,892 number of votes
@@ -28,6 +31,7 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana Degette, who received 73.8% of the vote and 272,892 votes.
   
-##Challenge Overview
+## Expanded Uses
+This script could be expanded for larger elections by expanding the dictionaries to include other counties, in the case of a state-wide election. This script could also be written to include the voter turnout percentage of the specific counties.  Denver county may be the most populated of the counties and would explain why most of the voters came from this county.  This information could help a candidate decide where they should spend their time campaigning.
 
-##Challenge Summary
+
